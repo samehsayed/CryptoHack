@@ -1,0 +1,1 @@
+I used https://online-image-comparison.com/ to XOR both Images
