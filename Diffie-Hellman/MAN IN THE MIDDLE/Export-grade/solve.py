@@ -28,4 +28,6 @@ def decrypt_flag(secret: int, iv: str, ciphertext: str):
 
 x= (discrete_log(p,A,g))
 secret = pow(B,x,p)
+
+print (secret)
 decrypt_flag(secret,iv,encrypted_flag)
